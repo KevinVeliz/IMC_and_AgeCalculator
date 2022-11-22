@@ -37,7 +37,6 @@
   }
 }
 
-
 .Header{
   background-color: rgb(199, 194, 194);
   padding: 10px;
@@ -59,7 +58,7 @@
 }
 
 .text-peso{
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .edad{
@@ -82,7 +81,7 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   width: 50%;
   background-color: rgb(199, 194, 194);
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 .Result{
